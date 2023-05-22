@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 <img src="background_image.png" alt="banner">
 I am a software engineer who is passionate about developing websites and mobile applications. I am currently working on ReactJS and NodeJS. I am also intrested in machine learning, aritifical intelligence and  cybersecurity. I also enjoy learning new things and solving difficult problems. 
 </p>
+
+<!-- https://profile-counter.glitch.me/veronicaglh/count.svg -->
