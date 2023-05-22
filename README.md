@@ -22,4 +22,4 @@ I am a software engineer who is passionate about developing websites and mobile 
 </p>
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/sichrisso/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/veronicglh/count.svg" alt="visitor badge"/></p>
