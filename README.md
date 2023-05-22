@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 # Hi, I'm Veronica
 <p>
 <img src="background_image.png" alt="banner">
-I am a software engineer who is passionate about developing websites and mobile applications. I am currently working on ReactJS and NodeJS. I am also intrested in machine learning, aritifical intelligence and  cybersecurity.I also enjoy learning new things and solving difficult problems. 
+I am a software engineer who is passionate about developing websites and mobile applications. I am currently working on ReactJS and NodeJS. I am also intrested in machine learning, aritifical intelligence and  cybersecurity. I also enjoy learning new things and solving difficult problems. 
 </p>
 
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/sichrisso/count.svg" alt="visitor badge"/></p>
