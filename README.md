@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 <p>
 <img src="background_image.png" alt="banner">
 I am a software engineer who is passionate about developing websites and mobile applications. I am currently working on ReactJS and NodeJS. I am also intrested in machine learning, aritifical intelligence and  cybersecurity. I also enjoy learning new things and solving difficult problems. 
+Languages: Python, HTML, CSS, JavaScript. 
+Tools: VSCode, Figma, AdobeXD, Git. 
+Frameworks: Flutter, SpringBoot. 
 </p>
 
 <!-- https://profile-counter.glitch.me/veronicaglh/count.svg -->
